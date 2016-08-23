@@ -1,4 +1,4 @@
-A ferramenta Testaí possui uma ferramenta de testes integrada que funciona apenas pelo Linux, a EvoSuite. O framework Laravel necessita de alguns comandos para compilar e rodar corretamente.
+A ferramenta Testaí possui uma ferramenta de testes integrada que funciona melhor pelo Linux, a EvoSuite. O framework Laravel necessita de alguns comandos para compilar e rodar corretamente.
 
 1. Instalando o composer:
 Vá ao site do https://getcomposer.org/download/ e siga as instruções de instalação.
